@@ -1,0 +1,16 @@
+{
+    "name": "bakhtiyor/dependency-injection",
+    "description": "A simple implementation of a Dependency Injection Container in PHP",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Bakhtiyor Bahritidinov",
+            "email": "bakhtiyor.bahriddinov@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "Model"
+        ]
+    }
+}
